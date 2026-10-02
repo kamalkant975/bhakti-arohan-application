@@ -4,6 +4,8 @@
 
 **[भक्ति आरोहण](https://www.bhaktiarohan.com/hi)** हिंदी और अंग्रेज़ी में हिंदू भक्ति का पुस्तकालय है — सत्यापित स्रोतों से चालीसा, आरती, मंत्र और स्तोत्र का पूर्ण पाठ व अर्थ, श्लोक-दर-श्लोक शास्त्र, त्योहार, व्रत, पूजा विधि, ऋषि, मंदिर और दैनिक भक्ति।
 
+📖 Full link directory (web page): **[kamalkant975.github.io/bhakti-arohan-application](https://kamalkant975.github.io/bhakti-arohan-application/)**
+
 🌐 Website: **[www.bhaktiarohan.com](https://www.bhaktiarohan.com)**  
 ▶️ YouTube: [@BhaktiArohan](https://www.youtube.com/@BhaktiArohan) · 📷 Instagram: [@bhaktiarohan](https://www.instagram.com/bhaktiarohan/) · 👍 Facebook: [bhaktiarohan](https://www.facebook.com/bhaktiarohan/)
 
