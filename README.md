@@ -1,4 +1,12 @@
-# Bhakti Arohan — भक्ति आरोहण
+<p align="center">
+  <a href="https://www.bhaktiarohan.com"><img src="assets/banner.jpg" alt="Bhakti Arohan — Hindu mantras, aarti, chalisa and scriptures in Hindi and English" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.bhaktiarohan.com"><img src="assets/logo.png" alt="Bhakti Arohan logo" width="120"></a>
+</p>
+
+<h1 align="center">Bhakti Arohan — भक्ति आरोहण</h1>
 
 **[Bhakti Arohan](https://www.bhaktiarohan.com/en)** is a bilingual (Hindi / English) Hindu devotional library — complete, source-verified texts of chalisas, aartis, mantras and stotras with meanings, verse-by-verse scriptures (Bhagavad Gita, Sundarkand, Durga Saptashati and more), festivals, vrat and puja vidhi, rishis, temples and daily bhakti.
 
